@@ -1,2 +1,2 @@
 # github-explorer
-Rocketseat's Ignite ReactJS project.
+Rocketseat's Ignite ReactJS - Fist Module's application project.
